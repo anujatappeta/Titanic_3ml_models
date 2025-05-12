@@ -28,7 +28,7 @@ This project focuses on predicting Titanic survivors using machine learning mode
 - XGBoost showed the lowest performance, particularly in predicting survivors.
 
 ## Credits
-Special thanks to [**Dhanush Polasi**](https://github.com/DhanushP545) for the original Titanic EDA and Survival Prediction project. This repository builds upon their work.
+Special thanks to [**Dhanush Polasi**](https://github.com/DhanushP545) for the original Titanic EDA and Survival Prediction project. I used his repository as a reference to understand the foundational concepts and to develop my own Titanic survivor prediction models.
 
 ## How to Run
 1. Clone or download the repository.
