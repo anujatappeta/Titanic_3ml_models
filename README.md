@@ -6,7 +6,7 @@ This project focuses on predicting Titanic survivors using machine learning mode
 ## Tools & Libraries Used
 - **Python** (Google Colab)
 - **Libraries**: pandas, numpy, seaborn, sklearn, xgboost
-- **Other Tools**: Jupyter Notebook
+
 
 ## Steps Involved
 1. **Data Preprocessing**: 
